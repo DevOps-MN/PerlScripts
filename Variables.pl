@@ -1,7 +1,7 @@
 #!/usr/bin/perl
 use strict;
 use warnings;
- 
+my ($x,$y,$z);
 #assign values to variables $x and $y and print them out.
 $x = 4;
 $y = 5.7;
