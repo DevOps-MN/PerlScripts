@@ -2,7 +2,7 @@
 use strict;
 use warnings;
  
-#assign values to variables $x and $y and print them out
+#assign values to variables $x and $y and print.
 $x = 4;
 $y = 5.7;
 print "x is $x and y is $y\n";
