@@ -10,7 +10,7 @@ print "x is $x and y is $y\n";
 #example of arithmetic expression
 $z = $x + $y**2;
 $x++;
-$z = $X**2;
+$z = $x**2;
 print "x is $x and z is $z\n";
  
 #evaluating arithmetic expression within print command
